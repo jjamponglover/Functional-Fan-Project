@@ -1,7 +1,10 @@
 # Functional Fan Project
-다기능 선풍기 프로젝트
-
+## 다기능 선풍기 프로젝트 <img alt="Static Badge" src="https://img.shields.io/badge/Verilog-08298A"> <img alt="Static Badge" src="https://img.shields.io/badge/Vivado-F2F5A9">
 <img src = "https://github.com/user-attachments/assets/9c7252f0-f630-4cd5-9afd-28962c2012e7" width="50%" height="50%">
+
+# Introduce
+* FPGA(Cora_z7) 보드를 이용 DC모터를 사용하여 선풍기를 구현
+* Verilog언어를 Vivado 프로그램을 사용하여 설계
 
 # Basic Features
 * 전원 및 바람 세기 조절 3단계
