@@ -22,7 +22,7 @@
 * 초음파를 이용한 긴급정지 기능
 * 마이크를 이용한 ON/OFF 제어 기능
 
-# 📽️ vide Operation Video
+# 📽️ Operation Video
 * 바람 세기 조절 https://youtu.be/amxgnFB1-bU
 * 좌우 회전 https://youtu.be/bPgRiU4fNQI
 * LED 밝기 조절 https://youtu.be/zgUzKCOYaRg
