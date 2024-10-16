@@ -1,4 +1,4 @@
-# * Functional Fan Project
+# Functional Fan Project
 <h3> 다기능 선풍기 프로젝트 <img alt="Static Badge" src="https://img.shields.io/badge/Verilog-08298A"> <img alt="Static Badge" src="https://img.shields.io/badge/Vivado-F2F5A9"> </h3>
 <img src = "https://github.com/user-attachments/assets/9c7252f0-f630-4cd5-9afd-28962c2012e7" width="50%" height="50%">
 
